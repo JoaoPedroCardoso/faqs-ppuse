@@ -1,22 +1,24 @@
-[
-   {
-      "img":"drPatricio.png",
-      "nome":"Dr. Patrício Barros",
-      "depoimento":"Quero deixar o meu profundo agradecimento à toda equipe da Lean Klinik, por me proporcionarem um espaço moderno, bonito e seguro para realizar os meus atendimentos, fora de Ribeirão Preto, onde a minha clínica se localiza. A opção de alocação por minutos e a flexibilidade de agenda me permitem atender com conforto e liberdade, sem falar na economia por não precisar arcar com os gastos de um outro consultório. O pessoal é muito receptivo e o ambiente muito agradável. Me senti em casa desde o primeiro dia."
-   },
-   {
-      "img":"drLeticia.png",
-      "nome":"Dra.Letycia Lopes",
-      "depoimento":"Sou dentista e alugo o consultório na Lean klinik há 8 meses, o local é bem limpo e organizado, os pacientes sempre comentam do aconchego que a clínica trás, além da liberdade de poder atender meus pacientes, o dr. Renato e dra. Nayara sempre foram muito solicitos e educados. Sem dúvidas uma clínica excelente."
-   },
-   {
-      "img":"drRenato.png",
-      "nome":"Dr. Renato Barjona Miranda",
-      "depoimento":"Como usuário da plataforma PPuse ofereço consultórios que tem período ocioso para aluguel. Comecei em 2020 em plena Pandemia e observo uma procura crescente. Hoje alugo o mesmo consultório para 3 clientes fixos diferentes que atendem em períodos diferentes e clientes esporádicos que vez ou outra precisam do espaço. Além de ajuda-los oferecendo consultório completo consigo uma renda extra e não deixo um capital estagnado que é um consultório parado. Nunca tive problemas com nenhum dos 'guests'."
-   },
-   {
-      "img":"drTassio.png",
-      "nome":"Dr.Tassio Tavares",
-      "depoimento":"Sou cirurgião dentista e presto serviço em clínicas em Uberlândia, e o sistema pay per use é perfeito para otimizar a minha rotina profissional. Nos dias que não tenho agenda nos locais onde presto serviço, posso realizar atendimentos particulares, utilizando o espaço da Lean Klinik, de acordo com a minha demanda, pagando por hora de uso. É um benefício 360 graus, pois além de não ter que realizar todo o investimento alto para aquisição de tudo que envolve o consultório: estrutura física, material de consumo, contas fixas como energia/água/impostos e funcionários; ainda gozo de todos os benefícios subjetivos que agregam valor ao meu atendimento, como: associação do meu nome com a Lean Klinik e a credibilidade que ela possui; todo o charme da experiência que a klinica oferece com sua decoração agradável, experiência olfativa; ambiente sempre organizado e limpo; funcionários altamente qualificados e treinados. E um detalhe muito importante: é possível oferecer uma experiência de altíssima qualidade ao meu paciente, e ter uma margem alta de lucro por atendimento, pois o pagamento à clínica é um valor fixo, por hora de uso."
-   }
-]
+{
+   "depoimentos":[
+      {
+         "img":"drPatricio.png",
+         "nome":"Dr. Patrício Barros",
+         "depoimento":"Quero deixar o meu profundo agradecimento à toda equipe da Lean Klinik, por me proporcionarem um espaço moderno, bonito e seguro para realizar os meus atendimentos, fora de Ribeirão Preto, onde a minha clínica se localiza. A opção de alocação por minutos e a flexibilidade de agenda me permitem atender com conforto e liberdade, sem falar na economia por não precisar arcar com os gastos de um outro consultório. O pessoal é muito receptivo e o ambiente muito agradável. Me senti em casa desde o primeiro dia."
+      },
+      {
+         "img":"drLeticia.png",
+         "nome":"Dra.Letycia Lopes",
+         "depoimento":"Sou dentista e alugo o consultório na Lean klinik há 8 meses, o local é bem limpo e organizado, os pacientes sempre comentam do aconchego que a clínica trás, além da liberdade de poder atender meus pacientes, o dr. Renato e dra. Nayara sempre foram muito solicitos e educados. Sem dúvidas uma clínica excelente."
+      },
+      {
+         "img":"drRenato.png",
+         "nome":"Dr. Renato Barjona Miranda",
+         "depoimento":"Como usuário da plataforma PPuse ofereço consultórios que tem período ocioso para aluguel. Comecei em 2020 em plena Pandemia e observo uma procura crescente. Hoje alugo o mesmo consultório para 3 clientes fixos diferentes que atendem em períodos diferentes e clientes esporádicos que vez ou outra precisam do espaço. Além de ajuda-los oferecendo consultório completo consigo uma renda extra e não deixo um capital estagnado que é um consultório parado. Nunca tive problemas com nenhum dos 'guests'."
+      },
+      {
+         "img":"drTassio.png",
+         "nome":"Dr.Tassio Tavares",
+         "depoimento":"Sou cirurgião dentista e presto serviço em clínicas em Uberlândia, e o sistema pay per use é perfeito para otimizar a minha rotina profissional. Nos dias que não tenho agenda nos locais onde presto serviço, posso realizar atendimentos particulares, utilizando o espaço da Lean Klinik, de acordo com a minha demanda, pagando por hora de uso. É um benefício 360 graus, pois além de não ter que realizar todo o investimento alto para aquisição de tudo que envolve o consultório: estrutura física, material de consumo, contas fixas como energia/água/impostos e funcionários; ainda gozo de todos os benefícios subjetivos que agregam valor ao meu atendimento, como: associação do meu nome com a Lean Klinik e a credibilidade que ela possui; todo o charme da experiência que a klinica oferece com sua decoração agradável, experiência olfativa; ambiente sempre organizado e limpo; funcionários altamente qualificados e treinados. E um detalhe muito importante: é possível oferecer uma experiência de altíssima qualidade ao meu paciente, e ter uma margem alta de lucro por atendimento, pois o pagamento à clínica é um valor fixo, por hora de uso."
+      }
+   ]
+}
